@@ -1,0 +1,35 @@
+{
+  "name": "林晓",
+  "title": "计算机科学与技术 · 本科在读",
+  "bio": "我是一名正在学习 Web 开发的学生。这个网站是课程作业，用来展示个人简介，并通过后台修改介绍、技能、经历和项目。",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git"
+  ],
+  "education": [
+    {
+      "school": "某某大学 · 计算机科学与技术",
+      "period": "2023 - 2027",
+      "detail": "本科在读。主要课程包括程序设计、数据结构与计算机网络。"
+    }
+  ],
+  "projects": [
+    {
+      "name": "个人介绍网站",
+      "period": "2026",
+      "description": "课程作业。包含前台介绍页和需要登录的后台，可以修改并保存个人资料。",
+      "link": ""
+    },
+    {
+      "name": "静态页面练习",
+      "period": "2025",
+      "description": "用 HTML 和 CSS 完成的课程页面练习，练习了布局和响应式设计。",
+      "link": ""
+    }
+  ],
+  "email": "linxiao@example.com",
+  "phone": "13800000000",
+  "other": "微信：linxiao_demo"
+}
